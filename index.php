@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Welcome to contact us</title>
+	<title>Welcome to Contact Us</title>
 </head>
 <body>
 
