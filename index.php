@@ -4,6 +4,6 @@
 	<title>Welcome to Contact Us</title>
 </head>
 <body>
-	Modified By Renil Soni
+	Modified by Renil Soni
 </body>
 </html>
